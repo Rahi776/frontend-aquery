@@ -1,0 +1,17 @@
+#preloader {
+    position: absolute;
+	z-index: 1000;
+    width: 100vw;
+    height: 100vh;
+    background: url("https://freight.cargo.site/t/original/i/9b7ce682cd4efb16be3a9fb72fb6172ad47a1405354cead35e1b180b94f918ca/Desktop_Full.gif") center no-repeat;
+    background-size: cover;  
+}
+
+body{
+	overflow: hidden;
+}
+
+.page{
+	
+    display: none;
+}
